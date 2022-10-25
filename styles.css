@@ -1,5 +1,7 @@
-img.rounded-corners {border-radius: 0 50% 50% 50%;}
 body {
-  background-color: red;
-  font-family:sans-serif;
+  background-color: yellow;
+  font-family: sans-serif;
+}
+img.rounded-corners {
+  border-radius: 0 50% 50% 50%;
 }
